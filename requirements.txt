@@ -1,0 +1,22 @@
+# AISE26 W20D4 In-Class Materials Requirements
+# Experiment Design
+
+# Core Requirements (same as demos)
+transformers>=4.36.0
+torch>=2.1.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Audio Libraries (if needed)
+# librosa>=0.10.0
+# soundfile>=0.12.0
+
+# Jupyter Dependencies
+jupyter>=1.0.0
+notebook>=7.0.0
+pandas>=2.0.0
+ipywidgets>=8.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
